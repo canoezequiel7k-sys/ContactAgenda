@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GIZNYjlXLZQ=",
+  "success": true,
+  "projectFilePath": "G:\\Proyectos diarios\\c#\\ContactAgenda\\ContactAgenda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.20\\microsoft.netcore.app.runtime.win-x64.8.0.20.nupkg.sha512",
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.20\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.20.nupkg.sha512",
+    "C:\\Users\\Ezequiel\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.20\\microsoft.aspnetcore.app.runtime.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

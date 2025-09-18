@@ -1,0 +1,14 @@
+G:\Proyectos diarios\c#\ContactAgenda\bin\Debug\net8.0\ContactAgenda.exe
+G:\Proyectos diarios\c#\ContactAgenda\bin\Debug\net8.0\ContactAgenda.deps.json
+G:\Proyectos diarios\c#\ContactAgenda\bin\Debug\net8.0\ContactAgenda.runtimeconfig.json
+G:\Proyectos diarios\c#\ContactAgenda\bin\Debug\net8.0\ContactAgenda.dll
+G:\Proyectos diarios\c#\ContactAgenda\bin\Debug\net8.0\ContactAgenda.pdb
+G:\Proyectos diarios\c#\ContactAgenda\obj\Debug\net8.0\ContactAgenda.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyectos diarios\c#\ContactAgenda\obj\Debug\net8.0\ContactAgenda.AssemblyInfoInputs.cache
+G:\Proyectos diarios\c#\ContactAgenda\obj\Debug\net8.0\ContactAgenda.AssemblyInfo.cs
+G:\Proyectos diarios\c#\ContactAgenda\obj\Debug\net8.0\ContactAgenda.csproj.CoreCompileInputs.cache
+G:\Proyectos diarios\c#\ContactAgenda\obj\Debug\net8.0\ContactAgenda.dll
+G:\Proyectos diarios\c#\ContactAgenda\obj\Debug\net8.0\refint\ContactAgenda.dll
+G:\Proyectos diarios\c#\ContactAgenda\obj\Debug\net8.0\ContactAgenda.pdb
+G:\Proyectos diarios\c#\ContactAgenda\obj\Debug\net8.0\ContactAgenda.genruntimeconfig.cache
+G:\Proyectos diarios\c#\ContactAgenda\obj\Debug\net8.0\ref\ContactAgenda.dll
